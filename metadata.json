@@ -1,0 +1,6 @@
+{
+  "name": "जनऔषधि केंद्र",
+  "description": "प्रधानमंत्री भारतीय जनऔषधि केंद्र Mohammad Pur Khala, Barabanki (PMBJK22063) - प्रो. धीरज वर्मा",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">जनऔषधि केंद्र</string>
+    <string name="store_full_title">प्रधानमंत्री भारतीय जनऔषधि केंद्र</string>
+    <string name="center_code">PMBJK22063</string>
+    <string name="center_code_label">केंद्र कोड: PMBJK22063</string>
+    <string name="proprietor_name">प्रो. धीरज वर्मा (D.Pharm)</string>
+    <string name="proprietor_label">संचालक / प्रो.: प्रो. धीरज वर्मा</string>
+    <string name="store_address">मोहम्मदपुर खाला, तहसील फ़तेहपुर, जनपद बाराबंकी, उत्तर प्रदेश - 225303</string>
+    <string name="store_address_en">Mohammad Pur Khala, Tehsil Fatehpur, Barabanki, UP - 225303</string>
+    <string name="store_landmark">निकट मनोज ज्वैलर्स (Near Manoj Jewellers)</string>
+    <string name="store_phone">+91 93050 72480</string>
+    <string name="store_email">drxdheerajverma@gmail.com</string>
+    <string name="store_timing_weekdays">सुबह 10:00 बजे से रात्रि 8:00 बजे तक</string>
+    <string name="store_timing_sunday">सुबह 10:00 बजे से रात्रि 8:00 बजे तक</string>
+    <string name="medical_disclaimer_note">सूचना एवं वैधानिक चेतावनी: यह पोर्टल केवल जन-जागरूकता एवं मूल्य सूची की जानकारी हेतु है। किसी भी प्रिस्क्रिप्शन (Rx) औषधि का सेवन केवल पंजीकृत चिकित्सक (RMP) के पर्चे एवं सलाह पर ही करें।</string>
+</resources>

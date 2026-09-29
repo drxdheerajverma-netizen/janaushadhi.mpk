@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center circular white backdrop disc (diameter 58dp inside 66dp safe zone) -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M54,25 A29,29 0 1 0 54,83 A29,29 0 1 0 54,25 Z" />
+
+    <!-- Pure White Medical Cross (Centered at 54, 54, thickness 10dp, span 36dp) -->
+    <!-- Vertical bar: left 49, top 36, width 10, height 36 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,38 C49,36.5 50,35.5 51.5,35.5 L56.5,35.5 C58,35.5 59,36.5 59,38 L59,70 C59,71.5 58,72.5 56.5,72.5 L51.5,72.5 C50,72.5 49,71.5 49,70 Z" />
+
+    <!-- Horizontal bar: left 36, top 49, width 36, height 10 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,49 C36.5,49 35.5,50 35.5,51.5 L35.5,56.5 C35.5,58 36.5,59 38,59 L70,59 C71.5,59 72.5,58 72.5,56.5 L72.5,51.5 C72.5,50 71.5,49 70,49 Z" />
+
+    <!-- Medicine Capsule / Pill Symbol in bright mint green / health color #69F0AE -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M64,36 C67,33 71,33 74,36 C77,39 77,43 74,46 L69,51 L60,42 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M60,42 L69,51 L64,56 C61,59 57,59 54,56 C51,53 51,49 54,46 Z" />
+
+    <!-- Healing Leaf accent -->
+    <path
+        android:fillColor="#B9F6CA"
+        android:pathData="M34,42 C34,42 42,40 46,47 C43,49 37,51 34,42 Z" />
+</vector>
